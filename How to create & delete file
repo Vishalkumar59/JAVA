@@ -1,1 +1,31 @@
-# JAVA
+HOW TO CREATE A NEW FILE
+
+go to your profile
+go to repositories 
+open a repository (in which you want to create a file)
+click on add file button (top right of the page)
+option select ->
+              ->create new file (click here when you want to create a new file)
+write your file name
+scroll down 
+click on Commit new file button
+
+
+HOW TO RENAME YOUR FILE AND CODE
+
+go in your repositories (where you create your file)
+open your file (click on file name)
+click on Pencil icon (it is available right top of the code section)
+go top left of the page (if you want to rename your file)
+go code section (if you want to change any thing in your code)
+scroll down
+click on Commit changes button
+
+
+HOW TO DELETE YOUR FILES
+
+go in your repositories (where you create your file)
+open your file (click on file name)
+click on Delete icon (it is available right top of the code section)
+scroll down
+click on Commit changes button
